@@ -19,8 +19,7 @@ Unsere vorherigen Aktivitäten findest du in unserem [Blog](/blog/page/1) und au
 
 Mehr zu unserem Jugendangebot: [Jung-Hacker*innen-Tag findest du hier](/jugendtreff/jung-hackerinnen-tag/).
 
-- Sonntag der 28.06.2026; 13:00 - 17:00 Abgesagt aufgrund der Hitze
-Nach den Sommerferien geht es weiter
+- Sonntag der 28.06.2026; 13:00 - 17:00 Abgesagt aufgrund der Hitze. Nach den Sommerferien geht es weiter
 
 ### Hacks on the Beach 2026 #hotb26
 
