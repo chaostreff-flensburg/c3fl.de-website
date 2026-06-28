@@ -1,4 +1,4 @@
-# chaostreff-flensburg.de-website
+# c3fl.de-website
 
 Chaos Computer Club Flensburg Website in [Lume](https://lume.land/)
 
