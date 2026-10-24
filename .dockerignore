@@ -1,0 +1,4 @@
+.git
+_site
+_bin
+**/node_modules

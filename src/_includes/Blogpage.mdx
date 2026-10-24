@@ -10,14 +10,14 @@ title: Blog
 </div>
 
 <div>
-  {page.data.results.map((page) => (
-    <a href={page.data.url}>
+  {page.data.results.map((post) => (
+    <a href={post.url}>
       <div class="card my-4 text-black text-decoration-none">
         <div class="card-header">
           <div class="flex justify-between flex-wrap m-3">
-            <h2 class="text-xl font-medium">{page.data.title}</h2>
+            <h2 class="text-xl font-medium">{post.title}</h2>
             <span>
-              {new Date(page.data.date).toLocaleDateString("de-DE", {
+              {new Date(post.date).toLocaleDateString("de-DE", {
                 year: "numeric",
                 month: "long",
                 day: "numeric",
@@ -26,10 +26,10 @@ title: Blog
           </div>
         </div>
         <div class="card-body">
-          {page.data.imgUrl ? (
-            <img class="w-full" src={page.data.imgUrl} />
+          {post.imgUrl ? (
+            <img class="w-full" src={post.imgUrl} />
           ) : null}
-          <div class="m-3">{page.data.excerpt}</div>
+          <div class="m-3">{post.excerpt}</div>
         </div>
       </div>
     </a>

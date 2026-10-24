@@ -1,9 +1,7 @@
 const pages = [
   {
-    data: {
-      url: "/blog/page/1/",
-      title: "Blog",
-    },
+    url: "/blog/page/1/",
+    title: "Blog",
   },
 ];
 
@@ -15,15 +13,13 @@ export default ({ search, ...props }) => (
     ].map((page) => {
       let subpages = [];
 
-      if(page.data.slug === "events"){
+      if(page.slug === "events"){
         subpages.push({
-          data:{
           title: "Hacks on the Beach 2026",
           url: "https://hotb.c3fl.de/de/",
-          }
         })
       }
-      subpages = [...subpages, ...search.pages(`header(${page.data.slug})`, "date=desc")];
+      subpages = [...subpages, ...search.pages(`header(${page.slug})`, "date=desc")];
       
       if (subpages.length > 0) {
         return (
@@ -32,12 +28,12 @@ export default ({ search, ...props }) => (
               class="btn btn-outline-dark btn-shadow m-2 dropdown-label"
               tabindex="0"
             >
-              {page.data.title}
+              {page.title}
             </div>
             <div class="block dropdown-menu btn-outline-dark p-0 mx-2">
               {subpages.map((subpage) => (
-                <a class="block dropdown-item" href={subpage.data?.url}>
-                  {subpage.data?.title}
+                <a class="block dropdown-item" href={subpage.url}>
+                  {subpage.title}
                 </a>
               ))}
             </div>
@@ -46,9 +42,9 @@ export default ({ search, ...props }) => (
       } else {
         return (
           <li>
-            <a href={page.data.url}>
+            <a href={page.url}>
               <div class="btn btn-outline-dark btn-shadow m-2">
-                {page.data.title}
+                {page.title}
               </div>
             </a>
           </li>
