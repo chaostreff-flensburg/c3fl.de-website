@@ -17,7 +17,7 @@ tags:
 ### § 2 Zweck
 
 1. Zweck des Vereins ist die Förderung der Bildung und Volksbildung auf dem Gebiet der Informationstechnologien, des Informationsrechts und verwandten Themen sowie des kreativen, kulturellen und kritischen Umgangs mit diesen.
-2. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke.
+2. Der Verein Chaos Computer Club Flensburg e.V. mit Sitz in Flensburg verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
 3. Der Satzungszweck wird insbesondere verwirklicht durch:
    1. Durchführung von öffentlichen, entgeltfreien Veranstaltungen zur Förderung von Medienkompetenz. Dies beinhaltet: Computersicherheit, Informationsrecht und kreativen Umgang mit neuen Technologien und deren Anwendungen.
    2. Förderung von Forschung, Entwicklung und Aufklärung im Bereich der Informationstechnologien.
@@ -89,7 +89,7 @@ tags:
 
 ### § 11 Auflösung des Vereins
 
-Bei der Auflösung des Vereins oder bei Wegfall des gemeinnützigen Zweckes fällt das Clubvermögen an die Wau Holland Stiftung oder eine von der Mitgliederversammlung zu bestimmende als gemeinnützig anerkannte Körperschaft zwecks Verwendung für die Volksbildung. Beschlüsse über die zukünftige Verwendung des Clubvermögens dürfen erst nach vorheriger Zustimmung des zuständigen Finanzamtes ausgeführt werden.
+Bei der Auflösung des Vereins oder bei Wegfall des steuerbegünstigten Zweckes fällt das Clubvermögen an die Wau Holland Stiftung oder eine von der Mitgliederversammlung zu bestimmende als gemeinnützig anerkannte Körperschaft. Der jeweilige Empfänger hat das Vermögen unmittelbar und ausschließlich für gemeinnützige, mildtätige oder kirchliche Zwecke zu verwenden. Beschlüsse über die zukünftige Verwendung des Clubvermögens dürfen erst nach vorheriger Zustimmung des zuständigen Finanzamtes ausgeführt werden.
 
 ## Beitragsordnung des Chaos Computer Club Flensburg e.V.
 
