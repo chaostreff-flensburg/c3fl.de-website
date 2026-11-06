@@ -17,7 +17,7 @@ tags:
 ### § 2 Zweck
 
 1. Zweck des Vereins ist die Förderung der Bildung und Volksbildung auf dem Gebiet der Informationstechnologien, des Informationsrechts und verwandten Themen sowie des kreativen, kulturellen und kritischen Umgangs mit diesen.
-2. Der Verein Chaos Computer Club Flensburg e.V. mit Sitz in Flensburg verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
+2. Der Verein Chaos Computer Club Flensburg e.V. mit Sitz in Flensburg verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts § 52 (2) Satz 2 Abgabenordnung.
 3. Der Satzungszweck wird insbesondere verwirklicht durch:
    1. Durchführung von öffentlichen, entgeltfreien Veranstaltungen zur Förderung von Medienkompetenz. Dies beinhaltet: Computersicherheit, Informationsrecht und kreativen Umgang mit neuen Technologien und deren Anwendungen.
    2. Förderung von Forschung, Entwicklung und Aufklärung im Bereich der Informationstechnologien.
