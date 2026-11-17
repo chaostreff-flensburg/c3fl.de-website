@@ -14,7 +14,9 @@ slug: "openSpace"
 Einmal in der Woche gibt es das sogenannte "OpenSpace" treffen. Dort sind alle, egal ob Mitglied oder nicht, eingeladen vorbeizukommen. Wir treffen uns **jeden Dienstag ab 19** Uhr in unseren Räumen in der **Apenrader Str. 49** in Flensburg.
 
 Was dann passiert steht den Mitgliedern und Gästen frei. Es gibt aber immer die Möglichkeit sich mit anderen auszutauschen, an Projekten zu arbeiten oder einfach nur zu quatschen. Du kannst alles aus unserer Werkstatt benutzen wie: Prusa 3D Drucker, Lötkolben, Oszilloskop, Akkuschrauber, Sägen und vieles mehr.
+
 Diese Ausstattung ist auch hervorragend dazu geeignet, defekte Geräte zu reparieren. Falls du dabei mal nicht weiter weißt, helfen wir auch gerne zur Selbsthilfe.
+
 Zum austausch haben wir oben eine Lounge, Sofa Ecke und einen Tisch mit Stühlen. Außerdem haben wir einen Beamer und eine Leinwand für Vorträge und Präsentationen.
 
 Am besten kommst du einfach vorbei, wenn du fragen hast. Wir haben auch einen [Public Matrix Channel #chaos-fl-public:fairydust.space](https://matrix.to/#/#chaos-fl-public:fairydust.space).
